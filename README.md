@@ -1,2 +1,0 @@
-# Dialogue
-Chat Application
